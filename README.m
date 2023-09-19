@@ -1,4 +1,4 @@
-<!docType html>
+<!doctype html>
 
 <html>
 
@@ -366,7 +366,7 @@
 							
 							
 							<div style="float: left;width: 100%;margin-top: 20px;">
-								<a href="https://t.me/cloneapp999" target="_blank">
+								<a href="https://https://youtube.com/@ROYALINSTITUTEMOTHUKA?si=o1fsH_O2W9V2QXdq target="_blank">
 									<div style="width: 260px; height:40px; border:1px solid RGB(31,175,255); background-color: #FFF; margin-left: auto;margin-right: auto;border-radius: 30px;">
 										<img src="images/Telegram.png" style="float: left; width: 40px;" />
 										<span style="line-height: 40px;font-size: 14px; color: RGB(31,175,255);float: left;margin-left: 20px;">Join Our YouTube Channel</span>
